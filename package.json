@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-integrador-sprint3",
+  "version": "1.0.0",
+  "description": "Presentable del link al tablero de trabajo del Sprint3 :",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marianocr98/Proyecto-Integrador-Grupo-10-LosRikolinos-Spint3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marianocr98/Proyecto-Integrador-Grupo-10-LosRikolinos-Spint3/issues"
+  },
+  "homepage": "https://github.com/Marianocr98/Proyecto-Integrador-Grupo-10-LosRikolinos-Spint3#readme"
+}
